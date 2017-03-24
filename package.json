@@ -1,0 +1,19 @@
+{
+  "name": "hexpress",
+  "version": "1.0.0",
+  "description": "Express built from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajivpo/hexpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajivpo/hexpress/issues"
+  },
+  "homepage": "https://github.com/rajivpo/hexpress#readme"
+}
